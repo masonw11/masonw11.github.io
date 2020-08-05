@@ -1,0 +1,16 @@
+
+.content {
+  padding: 1rem;
+  max-width: 62rem;
+  margin: auto;
+
+  background-color: white;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.align-center {
+  margin: 0 auto;
+}
